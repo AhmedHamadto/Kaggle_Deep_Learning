@@ -1,5 +1,5 @@
 from tensorflow import keras
-from tensorflow._api.v2.keras import layers
+from tensorflow.keras import layers
 
 # Create a networkth 1 linear unit
 model = keras.Sequential([
